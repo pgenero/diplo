@@ -22,7 +22,7 @@ In this repository, I have uploaded some of the work and practices that I am dev
 
 👨🏼‍🎓 I’m currently learning Python
 
-📫 How to reach me: https://www.linkedin.com/in/pablo-ariel-genero-335b1168/
+📫 How to reach me: https://www.linkedin.com/in/pgenero
 
 <!---
 pgenero/pgenero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
