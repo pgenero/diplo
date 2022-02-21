@@ -1,155 +1,155 @@
-ZONA,GRUPO,TIPO,CERRO,ORDEN,ALTITUD,PRIMER_ASC,PERSONA,PAÍS,CONTINENTE,LAT
-Chaltén,Fitz Roy,Cerro,Eléctrico,15,"2,257",ene-32,Alberto Maria De Agostini,Italia,Europa,"-49.251023, -73.009772"
-Chaltén,Fitz Roy,Cerro,Eléctrico,15,"2,257",ene-32,Mario Derriard,Italia,Europa,"-49.251023, -73.009772"
-Chaltén,Fitz Roy,Aguja,Guillaumet,14,"2,574",ene-65,José Luis Forouge,Argentina,Sudamérica,"-49.260020, -73.033035"
-Chaltén,Fitz Roy,Aguja,Guillaumet,14,"2,574",ene-65,"Carlos ""Pampero"" Comesaña",Argentina,Sudamérica,"-49.260020, -73.033035"
-Chaltén,Fitz Roy,Aguja,Mermoz,13,"2,732",feb-74,Héctor Cuiñas,Argentina,Sudamérica,"-49.263439, -73.037318"
-Chaltén,Fitz Roy,Aguja,Mermoz,13,"2,732",feb-74,Guillermo Vieiro,Argentina,Sudamérica,"-49.263439, -73.037318"
-Chaltén,Fitz Roy,Aguja,Mermoz,13,"2,732",feb-74,Fermín Olaechea,Argentina,Sudamérica,"-49.263439, -73.037318"
-Chaltén,Fitz Roy,Aguja,Val Bois,12,"2,653",ene-78,Bruno De Doná,Italia,Europa,"-49.266700, -73.040985"
-Chaltén,Fitz Roy,Aguja,Val Bois,12,"2,653",ene-78,Guido Pagani,Italia,Europa,"-49.266700, -73.040985"
-Chaltén,Fitz Roy,Cerro,Pilar Goretta,11,"2,984",ene-79,Renato Casarott,Italia,Europa,"-49.270010, -73.041881"
-Chaltén,Fitz Roy,Cerro,Fitz Roy,10,"3,405",feb-52,Guido Magnone,Francia,Europa,"-49.271463, -73.043332"
-Chaltén,Fitz Roy,Cerro,Fitz Roy,10,"3,405",feb-52,Lionel Terray,Francia,Europa,"-49.271463, -73.043332"
-Chaltén,Fitz Roy,Aguja,De la Silla,9,"2,900",feb-89,Horacio Bresba,Argentina,Sudamérica,"-49.275407, -73.041426"
-Chaltén,Fitz Roy,Aguja,De la Silla,9,"2,900",feb-89,Pedro Lüthi,Suiza,Europa,"-49.275407, -73.041426"
-Chaltén,Fitz Roy,Aguja,Desmochada,8,"2,550",feb-88,Jim Bridwell,USA,Norteamérica,"-49.276894, -73.040302"
-Chaltén,Fitz Roy,Aguja,Desmochada,8,"2,550",feb-88,Jay Smith,USA,Norteamérica,"-49.276894, -73.040302"
-Chaltén,Fitz Roy,Aguja,Desmochada,8,"2,550",feb-88,Greg Dunmire,USA,Norteamérica,"-49.276894, -73.040302"
-Chaltén,Fitz Roy,Aguja,Kakito,7,"2,800",feb-93,Makoto Ishibe,Brasil,Sudamérica,"-49.279409, -73.040016"
-Chaltén,Fitz Roy,Aguja,Kakito,7,"2,800",feb-93,Mike Schwitter,Suiza,Europa,"-49.279409, -73.040016"
-Chaltén,Fitz Roy,Aguja,Poincenot,6,"3,002",ene-62,Don Whillans,UK,Europa,"-49.280792, -73.040648"
-Chaltén,Fitz Roy,Aguja,Poincenot,6,"3,002",ene-62,Frank Cochrane,Irlanda,Europa,"-49.280792, -73.040648"
-Chaltén,Fitz Roy,Aguja,Rafael Juárez,5,"2,450",ene-74,Rick Silvester,USA,Norteamérica,"-49.285436, -73.040531"
-Chaltén,Fitz Roy,Aguja,Rafael Juárez,5,"2,450",ene-74,Dan Reid,USA,Norteamérica,"-49.285436, -73.040531"
-Chaltén,Fitz Roy,Aguja,Rafael Juárez,5,"2,450",ene-74,"Paul ""Tut"" Braithwaite",UK,Europa,"-49.285436, -73.040531"
-Chaltén,Fitz Roy,Aguja,Rafael Juárez,5,"2,450",ene-74,Martin Boysen,UK,Europa,"-49.285436, -73.040531"
-Chaltén,Fitz Roy,Aguja,Rafael Juárez,5,"2,450",ene-74,Leo Dickinson,UK,Europa,"-49.285436, -73.040531"
-Chaltén,Fitz Roy,Aguja,Saint-Exeupéry,4,"2,550",feb-68,Gino Buscaini,Italia,Europa,"-49.289326, -73.038064"
-Chaltén,Fitz Roy,Aguja,Saint-Exeupéry,4,"2,550",feb-68,Silvia Metzelin,Italia,Europa,"-49.289326, -73.038064"
-Chaltén,Fitz Roy,Aguja,Saint-Exeupéry,4,"2,550",feb-68,Lino Candot,Italia,Europa,"-49.289326, -73.038064"
-Chaltén,Fitz Roy,Aguja,Saint-Exeupéry,4,"2,550",feb-68,Walter Romano,Italia,Europa,"-49.289326, -73.038064"
-Chaltén,Fitz Roy,Aguja,Saint-Exeupéry,4,"2,550",feb-68,Silvano Sinigoi,Italia,Europa,"-49.289326, -73.038064"
-Chaltén,Fitz Roy,Aguja,l'S,3,"2,330",feb-68,Bernard Amy,Francia,Europa,"-49.293722, -73.036731"
-Chaltén,Fitz Roy,Cerro,Mojon Rojo,2,"2,163",ene-61,Cesarino Fava,Argentina,Sudamérica,"-49.298168, -73.030899"
-Chaltén,Fitz Roy,Cerro,Mojon Rojo,2,"2,163",ene-61,José Mordini,Argentina,Sudamérica,"-49.298168, -73.030899"
-Chaltén,Fitz Roy,Cerro,Techado Negro,1,"2,150",feb-61,Sergio Bossini,Argentina,Sudamérica,"-49.301273, -73.017943"
-Chaltén,Torre,Cerro,Torre,0,"3,102",ene-74,Daniele Chiappa,Italia,Europa,"-49.293330, -73.097317"
-Chaltén,Torre,Cerro,Torre,0,"3,102",ene-74,Mario Conti,Italia,Europa,"-49.293330, -73.097317"
-Chaltén,Torre,Cerro,Torre,0,"3,102",ene-74,Casimiro Ferrari,Italia,Europa,"-49.293330, -73.097317"
-Chaltén,Torre,Cerro,Torre,0,"3,102",ene-74,Pino Negri,Italia,Europa,"-49.293330, -73.097317"
-Chaltén,Torre,Cerro,Torre Egger,0,"2,850",feb-76,Jim Donini,USA,Norteamérica,"-49.290773, -73.096688"
-Chaltén,Torre,Cerro,Torre Egger,0,"2,850",feb-76,John Bragg,USA,Norteamérica,"-49.290773, -73.096688"
-Chaltén,Torre,Cerro,Torre Egger,0,"2,850",feb-76,Jay Wilson,USA,Norteamérica,"-49.290773, -73.096688"
-Chaltén,Torre,Cerro,Punta Herron,0,"2,750",mar-80,Bruno De Doná,Italia,Europa,"-49.289563, -73.096796"
-Chaltén,Torre,Cerro,Punta Herron,0,"2,750",mar-80,Giuliano Giongo,Italia,Europa,"-49.289563, -73.096796"
-Chaltén,Torre,Aguja,Standhardt,0,"2,700",ene-88,Jim Bridwell,USA,Norteamérica,"-49.286702, -73.096452"
-Chaltén,Torre,Aguja,Standhardt,0,"2,700",ene-88,Greg Smith,USA,Norteamérica,"-49.286702, -73.096452"
-Chaltén,Torre,Aguja,Standhardt,0,"2,700",ene-88,Jay Smith,USA,Norteamérica,"-49.286702, -73.096452"
-Chaltén,Torre,Cerro,El Mocho,0,"1,953",feb-78,Jim Bridwell,USA,Norteamérica,"-49.294276, -73.079083"
-Chaltén,Torre,Cerro,El Mocho,0,"1,953",feb-78,Robert Staszewski,Australia,Oceania,"-49.294276, -73.079083"
-Chaltén,Torre,Cerro,El Mochito,0,"1,350",ene-89,Carlos Domínguez,Argentina,Sudamérica,"-49.293253, -73.071609"
-Chaltén,Torre,Cerro,El Mochito,0,"1,350",ene-89,Mauricio Fernández,Argentina,Sudamérica,"-49.293253, -73.071609"
-Chaltén,Torre,Aguja,Medialuna,0,"1,700",ene-94,Ermanno Salveterra,Italia,Europa,"-49.290958, -73.083368"
-Chaltén,Torre,Aguja,Torrisimo,0,"1,955",feb-15,Colin Haley,USA,Norteamérica,"-49.291713, -73.085951"
-Chaltén,Torre,Aguja,Torrisimo,0,"1,955",feb-15,Jon Schaffer,USA,Norteamérica,"-49.291713, -73.085951"
-Chaltén,Torre,Aguja,Bifida,0,"2,400",mar-89,Horacio Bresba,Argentina,Sudamérica,"-49.282672, -73.097079"
-Chaltén,Torre,Aguja,Bifida,0,"2,400",mar-89,Pedro Lüthi,Suiza,Europa,"-49.282672, -73.097079"
-Chaltén,Torre,Aguja,Punta Filip,0,"2,200",nov-99,Rolando Garibotti,Argentina,Sudamérica,"-49.280844, -73.097635"
-Chaltén,Torre,Aguja,Punta Filip,0,"2,200",nov-99,Silvo Karo,Eslovenia,Europa,"-49.280844, -73.097635"
-Chaltén,Torre,Aguja,"Inti, Atchachila y Pachamama",0,"2,100",mar-92,Tommy Bonapace,Austria,Europa,"-49.278997, -73.099711"
-Chaltén,Torre,Aguja,"Inti, Atchachila y Pachamama",0,"2,100",mar-92,Gerold Dünser,Austria,Europa,"-49.278997, -73.099711"
-Chaltén,Torre,Aguja,Cuatro Dedos,0,"2,281",ene-77,Rab Carrington,UK,Europa,"-49.273596, -73.098201"
-Chaltén,Torre,Aguja,Cuatro Dedos,0,"2,281",ene-77,Alan Rouse,UK,Europa,"-49.273596, -73.098201"
-Chaltén,Torre,Aguja,CAT,0,"2,334",mar-01,Tommy Bonapace,Austria,Europa,"-49.270881, -73.101531"
-Chaltén,Torre,Aguja,CAT,0,"2,334",mar-01,Christian Zenz,Austria,Europa,"-49.270881, -73.101531"
-Chaltén,Adela,Cerro,Adela Sur,0,"2,807",feb-58,Walter Bonatti,Italia,Europa,"-49.312610, -73.095022"
-Chaltén,Adela,Cerro,Adela Sur,0,"2,807",feb-58,Carlo Mauri,Italia,Europa,"-49.312610, -73.095022"
-Chaltén,Adela,Cerro,Adela Central,0,"2,938",feb-58,Walter Bonatti,Italia,Europa,"-49.306683, -73.101619"
-Chaltén,Adela,Cerro,Adela Central,0,"2,938",feb-58,Carlo Mauri,Italia,Europa,"-49.306683, -73.101619"
-Chaltén,Adela,Cerro,Adela Norte,0,"2,825",oct-88,Eduardo Brenner,Argentina,Sudamérica,"-49.298592, -73.103824"
-Chaltén,Adela,Cerro,Adela Norte,0,"2,825",oct-88,Silvia Fitzpatrick,Argentina,Sudamérica,"-49.298592, -73.103824"
-Chaltén,Adela,Cerro,El Ñato,0,"2,790",feb-37,Ettore Castiglioni,Italia,Europa,"-49.366926, -73.046901"
-Chaltén,Adela,Cerro,El Ñato,0,"2,790",feb-37, Leo Dubosc,Italia,Europa,"-49.366926, -73.046901"
-Chaltén,Adela,Cerro,El Ñato,0,"2,790",feb-37,Giovanni “Titta” Gilberti,Italia,Europa,"-49.366926, -73.046901"
-Chaltén,Adela,Cerro,El Doblado,0,"2,665",feb-58,Catullo Detassis,Italia,Europa,"-49.324885, -73.101883"
-Chaltén,Adela,Cerro,El Doblado,0,"2,665",feb-58,Cesare Maestri,Italia,Europa,"-49.324885, -73.101883"
-Chaltén,Adela,Cerro,El Doblado,0,"2,665",feb-58,Marino Stenico,Italia,Europa,"-49.324885, -73.101883"
-Chaltén,Adela,Cerro,Grande,0,"2,751",feb-58,Cesare Maestri,Italia,Europa,"-49.338855, -73.097091"
-Chaltén,Adela,Cerro,Grande,0,"2,751",feb-58,Marino Stenico,Italia,Europa,"-49.338855, -73.097091"
-Chaltén,Adela,Cerro,Grande,0,"2,751",feb-58,Catullo Detassis,Italia,Europa,"-49.338855, -73.097091"
-Chaltén,Adela,Aguja,T48,0,"2,243",ene-66,Carlos Comesaña,Argentina,Sudamérica,"-49.357370, -73.129295"
-Chaltén,Adela,Aguja,T48,0,"2,243",ene-66,Ismael Palma,Argentina,Sudamérica,"-49.357370, -73.129295"
-Chaltén,Adela,Aguja,Lise,0,"2,161",ene-16,Julian Casanova,Argentina,Sudamérica,"-49.352548, -73.126571"
-Chaltén,Adela,Aguja,Lise,0,"2,161",ene-16,Tomás Müller,Argentina,Sudamérica,"-49.352548, -73.126571"
-Chaltén,Adela,Aguja,3 Bis,0,"2,000",,Sin ascensos,Sin ascensos,Sin ascensos,"-49.351637, -73.123982"
-Chaltén,Adela,Aguja,Chata,0,"2,000",may-13,Agustín Raselli,Argentina,Sudamérica,"-49.351002, -73.121835"
-Chaltén,Adela,Aguja,Chata,0,"2,000",may-13,Juan Manuel Raselli,Argentina,Sudamérica,"-49.351002, -73.121835"
-Chaltén,Adela,Aguja,Chata,0,"2,000",may-13,Ignacio Teerink,Argentina,Sudamérica,"-49.351002, -73.121835"
-Chaltén,Adela,Aguja,Tenazas,0,"2,092",,Sin ascensos,Sin ascensos,Sin ascensos,"-49.349243, -73.118936"
-Chaltén,Adela,Aguja,Leo,0,"2,100",ene-16,Julian Casanova,Argentina,Sudamérica,"-49.348409, -73.117534"
-Chaltén,Adela,Aguja,Leo,0,"2,100",ene-16,Tomás Müller,Argentina,Sudamérica,"-49.348409, -73.117534"
-Chaltén,Adela,Cerro,Cerro Azara,0,"1,848",mar-16,Alfredo Kolliker,Argentina,Sudamérica,"-49.377784, -73.128356"
-Chaltén,Adela,Cerro,Cerro Azara,0,"1,848",mar-16,Lutz Witte,Suiza,Europa,"-49.377784, -73.128356"
-Chaltén,Adela,Cerro,Solo,0,"2,121",feb-49,Roberto Matzi,Argentina,Sudamérica,"-49.342876, -73.029357"
-Chaltén,Adela,Cerro,Solo,0,"2,121",feb-49,Enrique Sabatté,Argentina,Sudamérica,"-49.342876, -73.029357"
-Chaltén,Piergiorgio & Pollone,Cerro,Domo Blanco,0,"2,507",ene-52,Alain Cazaux,Argentina,Sudamérica,"-49.267722, -73.106531"
-Chaltén,Piergiorgio & Pollone,Cerro,Domo Blanco,0,"2,507",ene-52,Jean Guthmann,Argentina,Sudamérica,"-49.267722, -73.106531"
-Chaltén,Piergiorgio & Pollone,Cerro,Domo Blanco,0,"2,507",ene-52,Jean Vincent Pillet,Argentina,Sudamérica,"-49.267722, -73.106531"
-Chaltén,Piergiorgio & Pollone,Cerro,Domo Blanco,0,"2,507",ene-52,Carlos “Bimbo” Stegmann,Argentina,Sudamérica,"-49.267722, -73.106531"
-Chaltén,Piergiorgio & Pollone,Cerro,Domo Blanco,0,"2,507",ene-52,Gerardo Watz,Argentina,Sudamérica,"-49.267722, -73.106531"
-Chaltén,Piergiorgio & Pollone,Cerro,Piergiorgio,0,"2,719",ene-63,Jorge Skvarca,Argentina,Sudamérica,"-49.261775, -73.100384"
-Chaltén,Piergiorgio & Pollone,Cerro,Piergiorgio,0,"2,719",ene-63,Pedro Skvarca,Argentina,Sudamérica,"-49.261775, -73.100384"
-Chaltén,Piergiorgio & Pollone,Cerro,Pollone,0,"2,579",feb-49,Rodolfo Dangl,Argentina,Sudamérica,"-49.253727, -73.089161"
-Chaltén,Piergiorgio & Pollone,Cerro,Pollone,0,"2,579",feb-49,Roberto Matzi,Argentina,Sudamérica,"-49.253727, -73.089161"
-Chaltén,Piergiorgio & Pollone,Cerro,Pollone,0,"2,579",feb-49,Agustine “Guzzi” Lantschner,Argentina,Sudamérica,"-49.253727, -73.089161"
-Chaltén,Piergiorgio & Pollone,Cerro,Pollone,0,"2,579",feb-49,Hans Zechner,Argentina,Sudamérica,"-49.253727, -73.089161"
-Chaltén,Piergiorgio & Pollone,Cerro,Pollone Cumbre Este,0,"2,500",ene-11,Neil Kauffman,USA,Norteamérica,"-49.254212, -73.087395"
-Chaltén,Piergiorgio & Pollone,Cerro,Pollone Cumbre Este,0,"2,500",ene-11,Jim Toman,USA,Norteamérica,"-49.254212, -73.087395"
-Chaltén,Piergiorgio & Pollone,Aguja,Aguja Pollone,0,"2,313",feb-76,Richard Smithers,Sudafrica,Africa,"-49.252646, -73.072193"
-Chaltén,Piergiorgio & Pollone,Aguja,Aguja Pollone,0,"2,313",feb-76,Clive Ward,Sudafrica,Africa,"-49.252646, -73.072193"
-Chaltén,Piergiorgio & Pollone,Aguja,Stefan,0,"2,188",mar-98,Stefan Gatt,Austria,Europa,"-49.253275, -73.078427"
-Chaltén,Piergiorgio & Pollone,Cerro,Loma Blanca,0,"2,218",ene-36,Italians Luigi Carrel,Italia,Europa,"-49.234785, -73.079064"
-Chaltén,Piergiorgio & Pollone,Cerro,Loma Blanca,0,"2,218",ene-36,Carlo Cassera,Italia,Europa,"-49.234785, -73.079064"
-Chaltén,Piergiorgio & Pollone,Cerro,Loma Blanca,0,"2,218",ene-36,Alberto Maria De Agostini,Italia,Europa,"-49.234785, -73.079064"
-Chaltén,Piergiorgio & Pollone,Cerro,Loma Blanca,0,"2,218",ene-36,Giuseppe Pellissier,Italia,Europa,"-49.234785, -73.079064"
-Chaltén,Piergiorgio & Pollone,Aguja,Tito Carrasco,0,"2,160",ene-99,Jim Donini,USA,Norteamérica,"-49.251797, -73.088078"
-Chaltén,Piergiorgio & Pollone,Aguja,Tito Carrasco,0,"2,160",ene-99,Gregory Crouch,USA,Norteamérica,"-49.251797, -73.088078"
-Chaltén,Piergiorgio & Pollone,Aguja,Punta Amistad,0,"2,050",feb-16,Stefan Gatt,Austria,Europa,"-49.251140, -73.087203"
-Chaltén,Piergiorgio & Pollone,Aguja,Punta Amistad,0,"2,050",feb-16,Markus Stockert,Austria,Europa,"-49.251140, -73.087203"
-Chaltén,Piergiorgio & Pollone,Aguja,Punta Amistad,0,"2,050",feb-16,Andreas Reinhardt,Austria,Europa,"-49.251140, -73.087203"
-Chaltén,Piergiorgio & Pollone,Aguja,El Hombro,0,"2,080",feb-14,Mike Collins,USA,Norteamérica,"-49.244106, -73.088849"
-Chaltén,Piergiorgio & Pollone,Aguja,El Hombro,0,"2,080",feb-14,Jonathan Schaffer ,USA,Norteamérica,"-49.244106, -73.088849"
-Chaltén,Piergiorgio & Pollone,Aguja,El Tridente,0,"2,245",ene-14,Jack Cramer,USA,Norteamérica,"-49.244229, -73.087523"
-Chaltén,Piergiorgio & Pollone,Aguja,El Tridente,0,"2,245",ene-14,Drew Smith,USA,Norteamérica,"-49.244229, -73.087523"
-Chaltén,Piergiorgio & Pollone,Aguja,Cumbrecitas,0,"2,125",ene-13,Joel Kauffman,USA,Norteamérica,"-49.244229, -73.087523"
-Chaltén,Piergiorgio & Pollone,Aguja,Cumbrecitas,0,"2,125",ene-13,Neil Kauffman,USA,Norteamérica,"-49.244229, -73.087523"
-Chaltén,Piergiorgio & Pollone,Aguja,Gran Gendarme,0,"2,190",dic-76,Rab Carrington,UK,Europa,"-49.241556, -73.084419"
-Chaltén,Piergiorgio & Pollone,Aguja,Gran Gendarme,0,"2,190",dic-76,Alan Rouse,UK,Europa,"-49.241556, -73.084419"
-Chaltén,Cordón Marconi,Cerro,Rincón,0,"2,460",feb-71,Carlos Comesaña,Argentina,Sudamérica,"-49.267182, -73.132687"
-Chaltén,Cordón Marconi,Cerro,Rincón,0,"2,460",feb-71,Ismael Palma,Argentina,Sudamérica,"-49.267182, -73.132687"
-Chaltén,Cordón Marconi,Aguja,Volonqui,0,"2,200",dic-76,Englishmen Alan Rouse,UK,Europa,"-49.257852, -73.136917"
-Chaltén,Cordón Marconi,Aguja,Volonqui,0,"2,200",dic-76,Rab Carrington,UK,Europa,"-49.257852, -73.136917"
-Chaltén,Cordón Marconi,Aguja,Colmillo Norte,0,"2,128",ago-13,Hervé Barmasse,Italia,Europa,"-49.258594, -73.136314"
-Chaltén,Cordón Marconi,Aguja,Colmillo Norte,0,"2,128",ago-13,Martin Castrillo,Argentina,Sudamérica,"-49.258594, -73.136314"
-Chaltén,Cordón Marconi,Aguja,Colmillo Norte,0,"2,128",ago-13,Pedro Fina,Argentina,Sudamérica,"-49.258594, -73.136314"
-Chaltén,Cordón Marconi,Aguja,Colmillo Central,0,"2,160",ago-13,Hervé Barmasse,Italia,Europa,"-49.260589, -73.135716"
-Chaltén,Cordón Marconi,Aguja,Colmillo Central,0,"2,160",ago-13,Martin Castrillo,Argentina,Sudamérica,"-49.260589, -73.135716"
-Chaltén,Cordón Marconi,Aguja,Colmillo Central,0,"2,160",ago-13,Pedro Fina,Argentina,Sudamérica,"-49.260589, -73.135716"
-Chaltén,Cordón Marconi,Aguja,Colmillo Sur,0,"2,200",dic-15,Salvaterra,Italia,Europa,"-49.262079, -73.134895"
-Chaltén,Cordón Marconi,Aguja,Colmillo Sur,0,"2,200",dic-15,Luca Bianco,Italia,Europa,"-49.262079, -73.134895"
-Chaltén,Cordón Marconi,Aguja,Colmillo Sur,0,"2,200",dic-15,Marcello Cominetti,Italia,Europa,"-49.262079, -73.134895"
-Chaltén,Cordón Marconi,Aguja,Colmillo Sur,0,"2,200",dic-15,Giacomo Deiana,Italia,Europa,"-49.262079, -73.134895"
-Chaltén,Cordón Marconi,Aguja,Pizarra Escondida,0,"2,130",mar-14,Erich Gatt,Austria,Europa,"-49.262860, -73.134729"
-Chaltén,Cordón Marconi,Aguja,Pizarra Escondida,0,"2,130",mar-14,Stefan Gatt,Austria,Europa,"-49.262860, -73.134729"
-Chaltén,Cordón Marconi,Cerro,Marconi Sur,0,"2,284",mar-95,Antonio Taglialegne,Italia,Europa,"-49.221352, -73.147457"
-Chaltén,Cordón Marconi,Aguja,Dumbo,0,"2,484",nov-13,Dejan Koren,Eslovenia,Europa,"-49.232947, -73.145743"
-Chaltén,Cordón Marconi,Aguja,Dumbo,0,"2,484",nov-13,Boštjan Mikuž,Eslovenia,Europa,"-49.232947, -73.145743"
-Chaltén,Cordón Marconi,Cerro,Marconi Central,0,"2,380",ene-66,Edgard Köpcke,Argentina,Sudamérica,"-49.211919, -73.143404"
-Chaltén,Cordón Marconi,Cerro,Marconi Central,0,"2,380",ene-66,Avedis Naccachian,Argentina,Sudamérica,"-49.211919, -73.143404"
-Chaltén,Cordón Marconi,Cerro,Marconi Central,0,"2,380",ene-66,Enrique Triep,Argentina,Sudamérica,"-49.211919, -73.143404"
-Chaltén,Cordón Marconi,Cerro,Marconi Norte,0,"2,210",feb-52,Jean Guthmann,Argentina,Sudamérica,"-49.198496, -73.140714"
-Chaltén,Cordón Marconi,Cerro,Marconi Norte,0,"2,210",feb-52,Jean Vincent Pillet,Argentina,Sudamérica,"-49.198496, -73.140714"
-Chaltén,Cordón Marconi,Cerro,Marconi Norte,0,"2,210",feb-52,Carlos Stegmann,Argentina,Sudamérica,"-49.198496, -73.140714"
-Chaltén,Cordón Marconi,Cerro,Marconi Norte,0,"2,210",feb-52,Gerardo Watzl,Argentina,Sudamérica,"-49.198496, -73.140714"
-Chaltén,Cordón Marconi,Cerro,Marconi Norte,0,"2,210",feb-52, Alain Cazaux,Argentina,Sudamérica,"-49.198496, -73.140714"
+ZONA	GRUPO	TIPO	CERRO	ORDEN	ALTITUD	PRIMER_ASC	PERSONA	PAÍS	CONTINENTE	LAT
+Chaltén	Fitz Roy	Cerro	Eléctrico	15	2257	ene-32	Alberto Maria De Agostini	Italia	Europa	-49.251023, -73.009772
+Chaltén	Fitz Roy	Cerro	Eléctrico	15	2257	ene-32	Mario Derriard	Italia	Europa	-49.251023, -73.009772
+Chaltén	Fitz Roy	Aguja	Guillaumet	14	2574	ene-65	José Luis Forouge	Argentina	Sudamérica	-49.260020, -73.033035
+Chaltén	Fitz Roy	Aguja	Guillaumet	14	2574	ene-65	Carlos "Pampero" Comesaña	Argentina	Sudamérica	-49.260020, -73.033035
+Chaltén	Fitz Roy	Aguja	Mermoz	13	2732	feb-74	Héctor Cuiñas	Argentina	Sudamérica	-49.263439, -73.037318
+Chaltén	Fitz Roy	Aguja	Mermoz	13	2732	feb-74	Guillermo Vieiro	Argentina	Sudamérica	-49.263439, -73.037318
+Chaltén	Fitz Roy	Aguja	Mermoz	13	2732	feb-74	Fermín Olaechea	Argentina	Sudamérica	-49.263439, -73.037318
+Chaltén	Fitz Roy	Aguja	Val Bois	12	2653	ene-78	Bruno De Doná	Italia	Europa	-49.266700, -73.040985
+Chaltén	Fitz Roy	Aguja	Val Bois	12	2653	ene-78	Guido Pagani	Italia	Europa	-49.266700, -73.040985
+Chaltén	Fitz Roy	Cerro	Pilar Goretta	11	2984	ene-79	Renato Casarott	Italia	Europa	-49.270010, -73.041881
+Chaltén	Fitz Roy	Cerro	Fitz Roy	10	3405	feb-52	Guido Magnone	Francia	Europa	-49.271463, -73.043332
+Chaltén	Fitz Roy	Cerro	Fitz Roy	10	3405	feb-52	Lionel Terray	Francia	Europa	-49.271463, -73.043332
+Chaltén	Fitz Roy	Aguja	De la Silla	9	2900	feb-89	Horacio Bresba	Argentina	Sudamérica	-49.275407, -73.041426
+Chaltén	Fitz Roy	Aguja	De la Silla	9	2900	feb-89	Pedro Lüthi	Suiza	Europa	-49.275407, -73.041426
+Chaltén	Fitz Roy	Aguja	Desmochada	8	2550	feb-88	Jim Bridwell	USA	Norteamérica	-49.276894, -73.040302
+Chaltén	Fitz Roy	Aguja	Desmochada	8	2550	feb-88	Jay Smith	USA	Norteamérica	-49.276894, -73.040302
+Chaltén	Fitz Roy	Aguja	Desmochada	8	2550	feb-88	Greg Dunmire	USA	Norteamérica	-49.276894, -73.040302
+Chaltén	Fitz Roy	Aguja	Kakito	7	2800	feb-93	Makoto Ishibe	Brasil	Sudamérica	-49.279409, -73.040016
+Chaltén	Fitz Roy	Aguja	Kakito	7	2800	feb-93	Mike Schwitter	Suiza	Europa	-49.279409, -73.040016
+Chaltén	Fitz Roy	Aguja	Poincenot	6	3002	ene-62	Don Whillans	UK	Europa	-49.280792, -73.040648
+Chaltén	Fitz Roy	Aguja	Poincenot	6	3002	ene-62	Frank Cochrane	Irlanda	Europa	-49.280792, -73.040648
+Chaltén	Fitz Roy	Aguja	Rafael Juárez	5	2450	ene-74	Rick Silvester	USA	Norteamérica	-49.285436, -73.040531
+Chaltén	Fitz Roy	Aguja	Rafael Juárez	5	2450	ene-74	Dan Reid	USA	Norteamérica	-49.285436, -73.040531
+Chaltén	Fitz Roy	Aguja	Rafael Juárez	5	2450	ene-74	Paul "Tut" Braithwaite	UK	Europa	-49.285436, -73.040531
+Chaltén	Fitz Roy	Aguja	Rafael Juárez	5	2450	ene-74	Martin Boysen	UK	Europa	-49.285436, -73.040531
+Chaltén	Fitz Roy	Aguja	Rafael Juárez	5	2450	ene-74	Leo Dickinson	UK	Europa	-49.285436, -73.040531
+Chaltén	Fitz Roy	Aguja	Saint-Exeupéry	4	2550	feb-68	Gino Buscaini	Italia	Europa	-49.289326, -73.038064
+Chaltén	Fitz Roy	Aguja	Saint-Exeupéry	4	2550	feb-68	Silvia Metzelin	Italia	Europa	-49.289326, -73.038064
+Chaltén	Fitz Roy	Aguja	Saint-Exeupéry	4	2550	feb-68	Lino Candot	Italia	Europa	-49.289326, -73.038064
+Chaltén	Fitz Roy	Aguja	Saint-Exeupéry	4	2550	feb-68	Walter Romano	Italia	Europa	-49.289326, -73.038064
+Chaltén	Fitz Roy	Aguja	Saint-Exeupéry	4	2550	feb-68	Silvano Sinigoi	Italia	Europa	-49.289326, -73.038064
+Chaltén	Fitz Roy	Aguja	l'S	3	2330	feb-68	Bernard Amy	Francia	Europa	-49.293722, -73.036731
+Chaltén	Fitz Roy	Cerro	Mojon Rojo	2	2163	ene-61	Cesarino Fava	Argentina	Sudamérica	-49.298168, -73.030899
+Chaltén	Fitz Roy	Cerro	Mojon Rojo	2	2163	ene-61	José Mordini	Argentina	Sudamérica	-49.298168, -73.030899
+Chaltén	Fitz Roy	Cerro	Techado Negro	1	2150	feb-61	Sergio Bossini	Argentina	Sudamérica	-49.301273, -73.017943
+Chaltén	Torre	Cerro	Torre	0	3102	ene-74	Daniele Chiappa	Italia	Europa	-49.293330, -73.097317
+Chaltén	Torre	Cerro	Torre	0	3102	ene-74	Mario Conti	Italia	Europa	-49.293330, -73.097317
+Chaltén	Torre	Cerro	Torre	0	3102	ene-74	Casimiro Ferrari	Italia	Europa	-49.293330, -73.097317
+Chaltén	Torre	Cerro	Torre	0	3102	ene-74	Pino Negri	Italia	Europa	-49.293330, -73.097317
+Chaltén	Torre	Cerro	Torre Egger	0	2850	feb-76	Jim Donini	USA	Norteamérica	-49.290773, -73.096688
+Chaltén	Torre	Cerro	Torre Egger	0	2850	feb-76	John Bragg	USA	Norteamérica	-49.290773, -73.096688
+Chaltén	Torre	Cerro	Torre Egger	0	2850	feb-76	Jay Wilson	USA	Norteamérica	-49.290773, -73.096688
+Chaltén	Torre	Cerro	Punta Herron	0	2750	mar-80	Bruno De Doná	Italia	Europa	-49.289563, -73.096796
+Chaltén	Torre	Cerro	Punta Herron	0	2750	mar-80	Giuliano Giongo	Italia	Europa	-49.289563, -73.096796
+Chaltén	Torre	Aguja	Standhardt	0	2700	ene-88	Jim Bridwell	USA	Norteamérica	-49.286702, -73.096452
+Chaltén	Torre	Aguja	Standhardt	0	2700	ene-88	Greg Smith	USA	Norteamérica	-49.286702, -73.096452
+Chaltén	Torre	Aguja	Standhardt	0	2700	ene-88	Jay Smith	USA	Norteamérica	-49.286702, -73.096452
+Chaltén	Torre	Cerro	El Mocho	0	1953	feb-78	Jim Bridwell	USA	Norteamérica	-49.294276, -73.079083
+Chaltén	Torre	Cerro	El Mocho	0	1953	feb-78	Robert Staszewski	Australia	Oceania	-49.294276, -73.079083
+Chaltén	Torre	Cerro	El Mochito	0	1350	ene-89	Carlos Domínguez	Argentina	Sudamérica	-49.293253, -73.071609
+Chaltén	Torre	Cerro	El Mochito	0	1350	ene-89	Mauricio Fernández	Argentina	Sudamérica	-49.293253, -73.071609
+Chaltén	Torre	Aguja	Medialuna	0	1700	ene-94	Ermanno Salveterra	Italia	Europa	-49.290958, -73.083368
+Chaltén	Torre	Aguja	Torrisimo	0	1955	feb-15	Colin Haley	USA	Norteamérica	-49.291713, -73.085951
+Chaltén	Torre	Aguja	Torrisimo	0	1955	feb-15	Jon Schaffer	USA	Norteamérica	-49.291713, -73.085951
+Chaltén	Torre	Aguja	Bifida	0	2400	mar-89	Horacio Bresba	Argentina	Sudamérica	-49.282672, -73.097079
+Chaltén	Torre	Aguja	Bifida	0	2400	mar-89	Pedro Lüthi	Suiza	Europa	-49.282672, -73.097079
+Chaltén	Torre	Aguja	Punta Filip	0	2200	nov-99	Rolando Garibotti	Argentina	Sudamérica	-49.280844, -73.097635
+Chaltén	Torre	Aguja	Punta Filip	0	2200	nov-99	Silvo Karo	Eslovenia	Europa	-49.280844, -73.097635
+Chaltén	Torre	Aguja	Inti, Atchachila y Pachamama	0	2100	mar-92	Tommy Bonapace	Austria	Europa	-49.278997, -73.099711
+Chaltén	Torre	Aguja	Inti, Atchachila y Pachamama	0	2100	mar-92	Gerold Dünser	Austria	Europa	-49.278997, -73.099711
+Chaltén	Torre	Aguja	Cuatro Dedos	0	2281	ene-77	Rab Carrington	UK	Europa	-49.273596, -73.098201
+Chaltén	Torre	Aguja	Cuatro Dedos	0	2281	ene-77	Alan Rouse	UK	Europa	-49.273596, -73.098201
+Chaltén	Torre	Aguja	CAT	0	2334	mar-01	Tommy Bonapace	Austria	Europa	-49.270881, -73.101531
+Chaltén	Torre	Aguja	CAT	0	2334	mar-01	Christian Zenz	Austria	Europa	-49.270881, -73.101531
+Chaltén	Adela	Cerro	Adela Sur	0	2807	feb-58	Walter Bonatti	Italia	Europa	-49.312610, -73.095022
+Chaltén	Adela	Cerro	Adela Sur	0	2807	feb-58	Carlo Mauri	Italia	Europa	-49.312610, -73.095022
+Chaltén	Adela	Cerro	Adela Central	0	2938	feb-58	Walter Bonatti	Italia	Europa	-49.306683, -73.101619
+Chaltén	Adela	Cerro	Adela Central	0	2938	feb-58	Carlo Mauri	Italia	Europa	-49.306683, -73.101619
+Chaltén	Adela	Cerro	Adela Norte	0	2825	oct-88	Eduardo Brenner	Argentina	Sudamérica	-49.298592, -73.103824
+Chaltén	Adela	Cerro	Adela Norte	0	2825	oct-88	Silvia Fitzpatrick	Argentina	Sudamérica	-49.298592, -73.103824
+Chaltén	Adela	Cerro	El Ñato	0	2790	feb-37	Ettore Castiglioni	Italia	Europa	-49.366926, -73.046901
+Chaltén	Adela	Cerro	El Ñato	0	2790	feb-37	 Leo Dubosc	Italia	Europa	-49.366926, -73.046901
+Chaltén	Adela	Cerro	El Ñato	0	2790	feb-37	Giovanni “Titta” Gilberti	Italia	Europa	-49.366926, -73.046901
+Chaltén	Adela	Cerro	El Doblado	0	2665	feb-58	Catullo Detassis	Italia	Europa	-49.324885, -73.101883
+Chaltén	Adela	Cerro	El Doblado	0	2665	feb-58	Cesare Maestri	Italia	Europa	-49.324885, -73.101883
+Chaltén	Adela	Cerro	El Doblado	0	2665	feb-58	Marino Stenico	Italia	Europa	-49.324885, -73.101883
+Chaltén	Adela	Cerro	Grande	0	2751	feb-58	Cesare Maestri	Italia	Europa	-49.338855, -73.097091
+Chaltén	Adela	Cerro	Grande	0	2751	feb-58	Marino Stenico	Italia	Europa	-49.338855, -73.097091
+Chaltén	Adela	Cerro	Grande	0	2751	feb-58	Catullo Detassis	Italia	Europa	-49.338855, -73.097091
+Chaltén	Adela	Aguja	T48	0	2243	ene-66	Carlos Comesaña	Argentina	Sudamérica	-49.357370, -73.129295
+Chaltén	Adela	Aguja	T48	0	2243	ene-66	Ismael Palma	Argentina	Sudamérica	-49.357370, -73.129295
+Chaltén	Adela	Aguja	Lise	0	2161	ene-16	Julian Casanova	Argentina	Sudamérica	-49.352548, -73.126571
+Chaltén	Adela	Aguja	Lise	0	2161	ene-16	Tomás Müller	Argentina	Sudamérica	-49.352548, -73.126571
+Chaltén	Adela	Aguja	3 Bis	0	2000		Sin ascensos	Sin ascensos	Sin ascensos	-49.351637, -73.123982
+Chaltén	Adela	Aguja	Chata	0	2000	may-13	Agustín Raselli	Argentina	Sudamérica	-49.351002, -73.121835
+Chaltén	Adela	Aguja	Chata	0	2000	may-13	Juan Manuel Raselli	Argentina	Sudamérica	-49.351002, -73.121835
+Chaltén	Adela	Aguja	Chata	0	2000	may-13	Ignacio Teerink	Argentina	Sudamérica	-49.351002, -73.121835
+Chaltén	Adela	Aguja	Tenazas	0	2092		Sin ascensos	Sin ascensos	Sin ascensos	-49.349243, -73.118936
+Chaltén	Adela	Aguja	Leo	0	2100	ene-16	Julian Casanova	Argentina	Sudamérica	-49.348409, -73.117534
+Chaltén	Adela	Aguja	Leo	0	2100	ene-16	Tomás Müller	Argentina	Sudamérica	-49.348409, -73.117534
+Chaltén	Adela	Cerro	Cerro Azara	0	1848	mar-16	Alfredo Kolliker	Argentina	Sudamérica	-49.377784, -73.128356
+Chaltén	Adela	Cerro	Cerro Azara	0	1848	mar-16	Lutz Witte	Suiza	Europa	-49.377784, -73.128356
+Chaltén	Adela	Cerro	Solo	0	2121	feb-49	Roberto Matzi	Argentina	Sudamérica	-49.342876, -73.029357
+Chaltén	Adela	Cerro	Solo	0	2121	feb-49	Enrique Sabatté	Argentina	Sudamérica	-49.342876, -73.029357
+Chaltén	Piergiorgio & Pollone	Cerro	Domo Blanco	0	2507	ene-52	Alain Cazaux	Argentina	Sudamérica	-49.267722, -73.106531
+Chaltén	Piergiorgio & Pollone	Cerro	Domo Blanco	0	2507	ene-52	Jean Guthmann	Argentina	Sudamérica	-49.267722, -73.106531
+Chaltén	Piergiorgio & Pollone	Cerro	Domo Blanco	0	2507	ene-52	Jean Vincent Pillet	Argentina	Sudamérica	-49.267722, -73.106531
+Chaltén	Piergiorgio & Pollone	Cerro	Domo Blanco	0	2507	ene-52	Carlos “Bimbo” Stegmann	Argentina	Sudamérica	-49.267722, -73.106531
+Chaltén	Piergiorgio & Pollone	Cerro	Domo Blanco	0	2507	ene-52	Gerardo Watz	Argentina	Sudamérica	-49.267722, -73.106531
+Chaltén	Piergiorgio & Pollone	Cerro	Piergiorgio	0	2719	ene-63	Jorge Skvarca	Argentina	Sudamérica	-49.261775, -73.100384
+Chaltén	Piergiorgio & Pollone	Cerro	Piergiorgio	0	2719	ene-63	Pedro Skvarca	Argentina	Sudamérica	-49.261775, -73.100384
+Chaltén	Piergiorgio & Pollone	Cerro	Pollone	0	2579	feb-49	Rodolfo Dangl	Argentina	Sudamérica	-49.253727, -73.089161
+Chaltén	Piergiorgio & Pollone	Cerro	Pollone	0	2579	feb-49	Roberto Matzi	Argentina	Sudamérica	-49.253727, -73.089161
+Chaltén	Piergiorgio & Pollone	Cerro	Pollone	0	2579	feb-49	Agustine “Guzzi” Lantschner	Argentina	Sudamérica	-49.253727, -73.089161
+Chaltén	Piergiorgio & Pollone	Cerro	Pollone	0	2579	feb-49	Hans Zechner	Argentina	Sudamérica	-49.253727, -73.089161
+Chaltén	Piergiorgio & Pollone	Cerro	Pollone Cumbre Este	0	2500	ene-11	Neil Kauffman	USA	Norteamérica	-49.254212, -73.087395
+Chaltén	Piergiorgio & Pollone	Cerro	Pollone Cumbre Este	0	2500	ene-11	Jim Toman	USA	Norteamérica	-49.254212, -73.087395
+Chaltén	Piergiorgio & Pollone	Aguja	Aguja Pollone	0	2313	feb-76	Richard Smithers	Sudafrica	Africa	-49.252646, -73.072193
+Chaltén	Piergiorgio & Pollone	Aguja	Aguja Pollone	0	2313	feb-76	Clive Ward	Sudafrica	Africa	-49.252646, -73.072193
+Chaltén	Piergiorgio & Pollone	Aguja	Stefan	0	2188	mar-98	Stefan Gatt	Austria	Europa	-49.253275, -73.078427
+Chaltén	Piergiorgio & Pollone	Cerro	Loma Blanca	0	2218	ene-36	Italians Luigi Carrel	Italia	Europa	-49.234785, -73.079064
+Chaltén	Piergiorgio & Pollone	Cerro	Loma Blanca	0	2218	ene-36	Carlo Cassera	Italia	Europa	-49.234785, -73.079064
+Chaltén	Piergiorgio & Pollone	Cerro	Loma Blanca	0	2218	ene-36	Alberto Maria De Agostini	Italia	Europa	-49.234785, -73.079064
+Chaltén	Piergiorgio & Pollone	Cerro	Loma Blanca	0	2218	ene-36	Giuseppe Pellissier	Italia	Europa	-49.234785, -73.079064
+Chaltén	Piergiorgio & Pollone	Aguja	Tito Carrasco	0	2160	ene-99	Jim Donini	USA	Norteamérica	-49.251797, -73.088078
+Chaltén	Piergiorgio & Pollone	Aguja	Tito Carrasco	0	2160	ene-99	Gregory Crouch	USA	Norteamérica	-49.251797, -73.088078
+Chaltén	Piergiorgio & Pollone	Aguja	Punta Amistad	0	2050	feb-16	Stefan Gatt	Austria	Europa	-49.251140, -73.087203
+Chaltén	Piergiorgio & Pollone	Aguja	Punta Amistad	0	2050	feb-16	Markus Stockert	Austria	Europa	-49.251140, -73.087203
+Chaltén	Piergiorgio & Pollone	Aguja	Punta Amistad	0	2050	feb-16	Andreas Reinhardt	Austria	Europa	-49.251140, -73.087203
+Chaltén	Piergiorgio & Pollone	Aguja	El Hombro	0	2080	feb-14	Mike Collins	USA	Norteamérica	-49.244106, -73.088849
+Chaltén	Piergiorgio & Pollone	Aguja	El Hombro	0	2080	feb-14	Jonathan Schaffer 	USA	Norteamérica	-49.244106, -73.088849
+Chaltén	Piergiorgio & Pollone	Aguja	El Tridente	0	2245	ene-14	Jack Cramer	USA	Norteamérica	-49.244229, -73.087523
+Chaltén	Piergiorgio & Pollone	Aguja	El Tridente	0	2245	ene-14	Drew Smith	USA	Norteamérica	-49.244229, -73.087523
+Chaltén	Piergiorgio & Pollone	Aguja	Cumbrecitas	0	2125	ene-13	Joel Kauffman	USA	Norteamérica	-49.244229, -73.087523
+Chaltén	Piergiorgio & Pollone	Aguja	Cumbrecitas	0	2125	ene-13	Neil Kauffman	USA	Norteamérica	-49.244229, -73.087523
+Chaltén	Piergiorgio & Pollone	Aguja	Gran Gendarme	0	2190	dic-76	Rab Carrington	UK	Europa	-49.241556, -73.084419
+Chaltén	Piergiorgio & Pollone	Aguja	Gran Gendarme	0	2190	dic-76	Alan Rouse	UK	Europa	-49.241556, -73.084419
+Chaltén	Cordón Marconi	Cerro	Rincón	0	2460	feb-71	Carlos Comesaña	Argentina	Sudamérica	-49.267182, -73.132687
+Chaltén	Cordón Marconi	Cerro	Rincón	0	2460	feb-71	Ismael Palma	Argentina	Sudamérica	-49.267182, -73.132687
+Chaltén	Cordón Marconi	Aguja	Volonqui	0	2200	dic-76	Englishmen Alan Rouse	UK	Europa	-49.257852, -73.136917
+Chaltén	Cordón Marconi	Aguja	Volonqui	0	2200	dic-76	Rab Carrington	UK	Europa	-49.257852, -73.136917
+Chaltén	Cordón Marconi	Aguja	Colmillo Norte	0	2128	ago-13	Hervé Barmasse	Italia	Europa	-49.258594, -73.136314
+Chaltén	Cordón Marconi	Aguja	Colmillo Norte	0	2128	ago-13	Martin Castrillo	Argentina	Sudamérica	-49.258594, -73.136314
+Chaltén	Cordón Marconi	Aguja	Colmillo Norte	0	2128	ago-13	Pedro Fina	Argentina	Sudamérica	-49.258594, -73.136314
+Chaltén	Cordón Marconi	Aguja	Colmillo Central	0	2160	ago-13	Hervé Barmasse	Italia	Europa	-49.260589, -73.135716
+Chaltén	Cordón Marconi	Aguja	Colmillo Central	0	2160	ago-13	Martin Castrillo	Argentina	Sudamérica	-49.260589, -73.135716
+Chaltén	Cordón Marconi	Aguja	Colmillo Central	0	2160	ago-13	Pedro Fina	Argentina	Sudamérica	-49.260589, -73.135716
+Chaltén	Cordón Marconi	Aguja	Colmillo Sur	0	2200	dic-15	Salvaterra	Italia	Europa	-49.262079, -73.134895
+Chaltén	Cordón Marconi	Aguja	Colmillo Sur	0	2200	dic-15	Luca Bianco	Italia	Europa	-49.262079, -73.134895
+Chaltén	Cordón Marconi	Aguja	Colmillo Sur	0	2200	dic-15	Marcello Cominetti	Italia	Europa	-49.262079, -73.134895
+Chaltén	Cordón Marconi	Aguja	Colmillo Sur	0	2200	dic-15	Giacomo Deiana	Italia	Europa	-49.262079, -73.134895
+Chaltén	Cordón Marconi	Aguja	Pizarra Escondida	0	2130	mar-14	Erich Gatt	Austria	Europa	-49.262860, -73.134729
+Chaltén	Cordón Marconi	Aguja	Pizarra Escondida	0	2130	mar-14	Stefan Gatt	Austria	Europa	-49.262860, -73.134729
+Chaltén	Cordón Marconi	Cerro	Marconi Sur	0	2284	mar-95	Antonio Taglialegne	Italia	Europa	-49.221352, -73.147457
+Chaltén	Cordón Marconi	Aguja	Dumbo	0	2484	nov-13	Dejan Koren	Eslovenia	Europa	-49.232947, -73.145743
+Chaltén	Cordón Marconi	Aguja	Dumbo	0	2484	nov-13	Boštjan Mikuž	Eslovenia	Europa	-49.232947, -73.145743
+Chaltén	Cordón Marconi	Cerro	Marconi Central	0	2380	ene-66	Edgard Köpcke	Argentina	Sudamérica	-49.211919, -73.143404
+Chaltén	Cordón Marconi	Cerro	Marconi Central	0	2380	ene-66	Avedis Naccachian	Argentina	Sudamérica	-49.211919, -73.143404
+Chaltén	Cordón Marconi	Cerro	Marconi Central	0	2380	ene-66	Enrique Triep	Argentina	Sudamérica	-49.211919, -73.143404
+Chaltén	Cordón Marconi	Cerro	Marconi Norte	0	2210	feb-52	Jean Guthmann	Argentina	Sudamérica	-49.198496, -73.140714
+Chaltén	Cordón Marconi	Cerro	Marconi Norte	0	2210	feb-52	Jean Vincent Pillet	Argentina	Sudamérica	-49.198496, -73.140714
+Chaltén	Cordón Marconi	Cerro	Marconi Norte	0	2210	feb-52	Carlos Stegmann	Argentina	Sudamérica	-49.198496, -73.140714
+Chaltén	Cordón Marconi	Cerro	Marconi Norte	0	2210	feb-52	Gerardo Watzl	Argentina	Sudamérica	-49.198496, -73.140714
+Chaltén	Cordón Marconi	Cerro	Marconi Norte	0	2210	feb-52	 Alain Cazaux	Argentina	Sudamérica	-49.198496, -73.140714
