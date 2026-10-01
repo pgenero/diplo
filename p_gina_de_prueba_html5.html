@@ -1,227 +1,192 @@
 <!DOCTYPE html>
-<html lang="es" class="scroll-smooth">
+<html lang="es" class="dark">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página HTML de Prueba</title>
-    
-    <!-- Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        // Configuración para permitir modo oscuro por clase
-        tailwind.config = {
-            darkMode: 'class',
-            theme: {
-                extend: {
-                    fontFamily: {
-                        sans: ['Inter', 'sans-serif'],
-                    },
-                }
-            }
-        }
-    </script>
-    
-    <!-- Google Fonts & FontAwesome Icons -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            transition: background-color 0.3s ease, color 0.3s ease;
-        }
-        /* Transiciones suaves para los elementos al cambiar de tema */
-        .theme-transition {
-            transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Taller de IA - Pela Grecco</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+    }
+  </script>
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
-<body class="bg-slate-50 text-slate-800 dark:bg-slate-900 dark:text-slate-100 min-h-screen flex flex-col justify-between theme-transition">
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-100 transition-colors duration-300 min-h-screen flex flex-col font-sans">
 
-    <!-- Navbar / Header -->
-    <header class="sticky top-0 z-50 backdrop-blur-md bg-white/80 dark:bg-slate-900/80 border-b border-slate-200 dark:border-slate-800 theme-transition">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-            <div class="flex items-center space-x-3">
-                <div class="w-10 h-10 rounded-xl bg-indigo-600 flex items-center justify-center text-white shadow-md shadow-indigo-500/30">
-                    <i class="fa-solid fa-code text-lg"></i>
-                </div>
-                <div>
-                    <h1 class="text-lg font-bold tracking-tight">DemoHTML5</h1>
-                    <p class="text-xs text-slate-500 dark:text-slate-400">Página de prueba básica</p>
-                </div>
-            </div>
-
-            <!-- Dark Mode Toggle Button -->
-            <button id="themeToggle" class="p-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 transition-all focus:outline-none focus:ring-2 focus:ring-indigo-500">
-                <i id="themeIcon" class="fa-solid fa-moon text-lg"></i>
-            </button>
+  <!-- Header -->
+  <header class="bg-white dark:bg-gray-800 shadow-md border-b border-gray-200 dark:border-gray-700">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <div class="p-2 bg-indigo-600 text-white rounded-lg shadow-sm">
+          <i class="fa-solid fa-brain text-xl"></i>
         </div>
-    </header>
+        <h1 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">Taller de IA</h1>
+      </div>
 
-    <!-- Main Content Container -->
-    <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-grow space-y-8">
-        
-        <!-- Hero Section -->
-        <section class="bg-gradient-to-r from-indigo-600 to-purple-600 rounded-3xl p-6 sm:p-10 text-white shadow-xl shadow-indigo-500/10">
-            <div class="max-w-2xl space-y-4">
-                <span class="inline-block px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-xs font-semibold uppercase tracking-wider">
-                    Entorno de Pruebas
-                </span>
-                <h2 class="text-2xl sm:text-4xl font-extrabold tracking-tight">
-                    Estructura HTML5 Limpia & Moderna
-                </h2>
-                <p class="text-indigo-100 text-sm sm:text-base leading-relaxed">
-                    Este plantilla incluye componentes responsivos, estilos prediseñados y funcionalidad básica en JavaScript para probar estilos y layouts.
-                </p>
+      <!-- Theme Controls -->
+      <div class="flex items-center space-x-4">
+        <button id="themeToggle" title="Cambiar tema" class="p-2 rounded-lg bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600 transition">
+          <i id="themeIcon" class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full space-y-8">
+    
+    <!-- Profile Card -->
+    <section class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 md:p-8 border border-gray-200 dark:border-gray-700">
+      <div class="flex flex-col md:flex-row items-center md:items-start gap-6">
+        <!-- Bald Portrait Photo -->
+        <img 
+          src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80" 
+          alt="Foto de Pela Grecco" 
+          class="w-32 h-32 rounded-full object-cover border-4 border-indigo-500 shadow-md"
+        />
+        <div class="flex-1 text-center md:text-left space-y-3">
+          <div class="flex flex-col md:flex-row md:items-center justify-between gap-2">
+            <div>
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Pela Grecco</h2>
+              <p class="text-indigo-600 dark:text-indigo-400 font-medium">Especialista en Datos e Inteligencia Artificial</p>
             </div>
-        </section>
+            <span class="inline-flex items-center justify-center px-3 py-1 text-xs font-semibold rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300 self-center md:self-start">
+              <span class="w-2 h-2 mr-1.5 bg-emerald-500 rounded-full animate-pulse"></span> Activo
+            </span>
+          </div>
 
-        <!-- GRID LAYOUT: Card + Stats -->
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            
-            <!-- Profile Info Card -->
-            <div class="lg:col-span-1 bg-white dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700/60 shadow-sm hover:shadow-md transition-shadow theme-transition">
-                <div class="flex flex-col items-center text-center">
-                    <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=256" 
-                         alt="Foto de Perfil" 
-                         class="w-24 h-24 rounded-full object-cover border-4 border-indigo-500/20 mb-4 shadow-sm">
-                    
-                    <h3 class="text-xl font-bold">María García</h3>
-                    <p class="text-sm font-medium text-indigo-600 dark:text-indigo-400 mb-4">Desarrolladora Web Frontend</p>
+          <p class="text-gray-600 dark:text-gray-300 text-sm leading-relaxed">
+            Diseño e implementación de arquitecturas de datos end-to-end, automatización con DataOps y soluciones de IA generativa para la toma de decisiones estratégicas.
+          </p>
 
-                    <div class="w-full border-t border-slate-100 dark:border-slate-700/50 my-2"></div>
-
-                    <!-- Details List -->
-                    <div class="w-full space-y-3 mt-2 text-left text-sm">
-                        <div class="flex items-center space-x-3 text-slate-600 dark:text-slate-300">
-                            <i class="fa-solid fa-envelope w-5 text-indigo-500 text-center"></i>
-                            <span class="truncate">maria.garcia@ejemplo.com</span>
-                        </div>
-                        <div class="flex items-center space-x-3 text-slate-600 dark:text-slate-300">
-                            <i class="fa-solid fa-briefcase w-5 text-indigo-500 text-center"></i>
-                            <span>Tecnología e Innovación</span>
-                        </div>
-                        <div class="flex items-center space-x-3 text-slate-600 dark:text-slate-300">
-                            <i class="fa-solid fa-location-dot w-5 text-indigo-500 text-center"></i>
-                            <span>Madrid, España</span>
-                        </div>
-                        <div class="flex items-center space-x-3 text-slate-600 dark:text-slate-300">
-                            <i class="fa-solid fa-circle-check w-5 text-emerald-500 text-center"></i>
-                            <span class="text-emerald-600 dark:text-emerald-400 font-medium">Estado: Activa</span>
-                        </div>
-                    </div>
-
-                    <!-- Action Button -->
-                    <button onclick="alert('¡Mensaje enviado correctamente!')" class="mt-6 w-full py-2.5 px-4 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-xl transition-colors shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500">
-                        Contactar
-                    </button>
-                </div>
-            </div>
-
-            <!-- Data Table Section -->
-            <div class="lg:col-span-2 bg-white dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700/60 shadow-sm theme-transition flex flex-col justify-between">
-                <div>
-                    <div class="flex items-center justify-between mb-4">
-                        <h3 class="text-lg font-bold flex items-center gap-2">
-                            <i class="fa-solid fa-list-check text-indigo-500"></i> Proyectos de Muestra
-                        </h3>
-                        <span class="text-xs bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 px-2.5 py-1 rounded-full font-medium">
-                            3 Activos
-                        </span>
-                    </div>
-
-                    <!-- Table Container -->
-                    <div class="overflow-x-auto rounded-xl border border-slate-200 dark:border-slate-700">
-                        <table class="w-full text-left text-sm">
-                            <thead class="bg-slate-50 dark:bg-slate-900/50 text-slate-500 dark:text-slate-400 uppercase text-[11px] tracking-wider border-b border-slate-200 dark:border-slate-700">
-                                <tr>
-                                    <th class="py-3 px-4 font-semibold">Proyecto</th>
-                                    <th class="py-3 px-4 font-semibold">Categoría</th>
-                                    <th class="py-3 px-4 font-semibold">Estado</th>
-                                    <th class="py-3 px-4 font-semibold text-right">Avance</th>
-                                </tr>
-                            </thead>
-                            <tbody class="divide-y divide-slate-100 dark:divide-slate-700/50">
-                                <tr class="hover:bg-slate-50/50 dark:hover:bg-slate-700/30 transition-colors">
-                                    <td class="py-3 px-4 font-medium">Rediseño Web</td>
-                                    <td class="py-3 px-4 text-slate-500 dark:text-slate-400">UI/UX Design</td>
-                                    <td class="py-3 px-4">
-                                        <span class="px-2.5 py-1 text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900/30 dark:text-emerald-400 rounded-full">
-                                            Completado
-                                        </span>
-                                    </td>
-                                    <td class="py-3 px-4 text-right font-medium">100%</td>
-                                </tr>
-                                <tr class="hover:bg-slate-50/50 dark:hover:bg-slate-700/30 transition-colors">
-                                    <td class="py-3 px-4 font-medium">API Restful</td>
-                                    <td class="py-3 px-4 text-slate-500 dark:text-slate-400">Backend</td>
-                                    <td class="py-3 px-4">
-                                        <span class="px-2.5 py-1 text-xs font-medium bg-amber-100 text-amber-800 dark:bg-amber-900/30 dark:text-amber-400 rounded-full">
-                                            En Progreso
-                                        </span>
-                                    </td>
-                                    <td class="py-3 px-4 text-right font-medium">65%</td>
-                                </tr>
-                                <tr class="hover:bg-slate-50/50 dark:hover:bg-slate-700/30 transition-colors">
-                                    <td class="py-3 px-4 font-medium">App Móvil</td>
-                                    <td class="py-3 px-4 text-slate-500 dark:text-slate-400">Flutter</td>
-                                    <td class="py-3 px-4">
-                                        <span class="px-2.5 py-1 text-xs font-medium bg-indigo-100 text-indigo-800 dark:bg-indigo-900/30 dark:text-indigo-400 rounded-full">
-                                            Planificación
-                                        </span>
-                                    </td>
-                                    <td class="py-3 px-4 text-right font-medium">15%</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-
-                <!-- Footer info in Card -->
-                <div class="mt-4 pt-3 border-t border-slate-100 dark:border-slate-700/50 flex justify-between items-center text-xs text-slate-500 dark:text-slate-400">
-                    <span>Última actualización: Hoy</span>
-                    <a href="#" class="text-indigo-600 dark:text-indigo-400 hover:underline font-medium">Ver todos &rarr;</a>
-                </div>
-            </div>
-
+          <!-- Tech Stack Badges -->
+          <div class="flex flex-wrap gap-2 pt-2 justify-center md:justify-start">
+            <span class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-xs font-medium rounded-lg">Python</span>
+            <span class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-xs font-medium rounded-lg">Microsoft Fabric</span>
+            <span class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-xs font-medium rounded-lg">DataOps</span>
+            <span class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-xs font-medium rounded-lg">LLMs & RAG</span>
+            <span class="px-3 py-1 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-xs font-medium rounded-lg">Power BI</span>
+          </div>
         </div>
-    </main>
+      </div>
+    </section>
 
-    <!-- Footer -->
-    <footer class="bg-white dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 py-6 theme-transition">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-slate-500 dark:text-slate-400">
-            <p>&copy; 2026 DemoHTML5. Todos los derechos reservados.</p>
-            <div class="flex space-x-4">
-                <a href="#" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Privacidad</a>
-                <a href="#" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Términos</a>
-                <a href="#" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Contacto</a>
-            </div>
+    <!-- Metrics Summary -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="bg-white dark:bg-gray-800 p-6 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm flex items-center space-x-4">
+        <div class="p-3 bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-400 rounded-lg">
+          <i class="fa-solid fa-robot text-2xl"></i>
         </div>
-    </footer>
+        <div>
+          <p class="text-xs text-gray-500 dark:text-gray-400 font-medium">Modelos en Producción</p>
+          <p class="text-2xl font-bold text-gray-900 dark:text-white">8</p>
+        </div>
+      </div>
 
-    <!-- Dark Mode Toggle Script -->
-    <script>
-        const themeToggleBtn = document.getElementById('themeToggle');
-        const themeIcon = document.getElementById('themeIcon');
+      <div class="bg-white dark:bg-gray-800 p-6 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm flex items-center space-x-4">
+        <div class="p-3 bg-purple-100 dark:bg-purple-900/40 text-purple-600 dark:text-purple-400 rounded-lg">
+          <i class="fa-solid fa-database text-2xl"></i>
+        </div>
+        <div>
+          <p class="text-xs text-gray-500 dark:text-gray-400 font-medium">Volumen Diario Ingestado</p>
+          <p class="text-2xl font-bold text-gray-900 dark:text-white">2.5M reg</p>
+        </div>
+      </div>
 
-        // Función para cambiar el icono
-        function updateIcon(isDark) {
-            if (isDark) {
-                themeIcon.classList.remove('fa-moon');
-                themeIcon.classList.add('fa-sun');
-            } else {
-                themeIcon.classList.remove('fa-sun');
-                themeIcon.classList.add('fa-moon');
-            }
-        }
+      <div class="bg-white dark:bg-gray-800 p-6 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm flex items-center space-x-4">
+        <div class="p-3 bg-emerald-100 dark:bg-emerald-900/40 text-emerald-600 dark:text-emerald-400 rounded-lg">
+          <i class="fa-solid fa-bolt text-2xl"></i>
+        </div>
+        <div>
+          <p class="text-xs text-gray-500 dark:text-gray-400 font-medium">Uptime de Pipelines</p>
+          <p class="text-2xl font-bold text-gray-900 dark:text-white">99.9%</p>
+        </div>
+      </div>
+    </div>
 
-        // Evento click para alternar tema
-        themeToggleBtn.addEventListener('click', () => {
-            const isDark = document.documentElement.classList.toggle('dark');
-            updateIcon(isDark);
-        });
-    </script>
+    <!-- Data & AI Table Section -->
+    <section class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-700 overflow-hidden">
+      <div class="p-6 border-b border-gray-200 dark:border-gray-700 flex justify-between items-center">
+        <div>
+          <h3 class="text-lg font-bold text-gray-900 dark:text-white">Proyectos y Pipelines de Datos e IA</h3>
+          <p class="text-xs text-gray-500 dark:text-gray-400">Estado técnico y rendimiento operativo</p>
+        </div>
+        <button class="px-4 py-2 text-xs font-medium bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition shadow-sm">
+          <i class="fa-solid fa-plus mr-1"></i> Nuevo Modelo
+        </button>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-left border-collapse text-sm">
+          <thead>
+            <tr class="bg-gray-50 dark:bg-gray-700/50 text-gray-500 dark:text-gray-400 uppercase text-xs tracking-wider">
+              <th class="p-4">Proyecto / Arquitectura</th>
+              <th class="p-4">Stack Tecnológico</th>
+              <th class="p-4">Frecuencia</th>
+              <th class="p-4">Estado</th>
+              <th class="p-4 text-right">Rendimiento</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-200 dark:divide-gray-700">
+            <tr class="hover:bg-gray-50 dark:hover:bg-gray-700/30 transition">
+              <td class="p-4 font-semibold text-gray-900 dark:text-white">Asistente RAG Documental</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">LangChain + OpenAI API</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">Real-Time</td>
+              <td class="p-4"><span class="px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">En Producción</span></td>
+              <td class="p-4 text-right font-mono text-gray-700 dark:text-gray-200">120 ms</td>
+            </tr>
+            <tr class="hover:bg-gray-50 dark:hover:bg-gray-700/30 transition">
+              <td class="p-4 font-semibold text-gray-900 dark:text-white">Pipeline Scraping + Normalización LLM</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">Python + Fabric Lakehouse</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">Diario (Batch)</td>
+              <td class="p-4"><span class="px-2.5 py-1 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">En Producción</span></td>
+              <td class="p-4 text-right font-mono text-gray-700 dark:text-gray-200">50k reg/día</td>
+            </tr>
+            <tr class="hover:bg-gray-50 dark:hover:bg-gray-700/30 transition">
+              <td class="p-4 font-semibold text-gray-900 dark:text-white">Deployment CI/CD Workspaces</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">GitHub Actions + REST API</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">On Push</td>
+              <td class="p-4"><span class="px-2.5 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300">Testing</span></td>
+              <td class="p-4 text-right font-mono text-gray-700 dark:text-gray-200">100% Ok</td>
+            </tr>
+            <tr class="hover:bg-gray-50 dark:hover:bg-gray-700/30 transition">
+              <td class="p-4 font-semibold text-gray-900 dark:text-white">Fine-Tuning Llama 3 Analítico</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">PyTorch + Hugging Face</td>
+              <td class="p-4 text-gray-600 dark:text-gray-300">Semanal</td>
+              <td class="p-4"><span class="px-2.5 py-1 text-xs font-medium rounded-full bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-300">Entrenando</span></td>
+              <td class="p-4 text-right font-mono text-gray-700 dark:text-gray-200">Epoch 6/10</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-6 mt-auto">
+    <div class="max-w-7xl mx-auto px-4 text-center text-xs text-gray-500 dark:text-gray-400">
+      &copy; Taller de IA — Creado por Pela Grecco.
+    </div>
+  </footer>
+
+  <!-- Dark Mode Script -->
+  <script>
+    const themeToggleBtn = document.getElementById('themeToggle');
+    const themeIcon = document.getElementById('themeIcon');
+
+    themeToggleBtn.addEventListener('click', () => {
+      if (document.documentElement.classList.contains('dark')) {
+        document.documentElement.classList.remove('dark');
+        themeIcon.className = 'fa-solid fa-sun';
+      } else {
+        document.documentElement.classList.add('dark');
+        themeIcon.className = 'fa-solid fa-moon';
+      }
+    });
+  </script>
 </body>
 </html>
